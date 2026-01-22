@@ -260,7 +260,7 @@ usuarios.Add(1, "Admin");
 - Excelente documentación
 - Compatible con videojuegos (Unity)
 
-## IMportar clases en C#
+## Importar clases en C#
 
 
 ```csharp
@@ -271,5 +271,22 @@ using Biblioteca.Utilidades;
 
 
 ```
+
+
+## Como pedir un dato en C#
+
+
+```csharp
+
+Console.ReadLine()
+
+char dia;
+Console.WriteLine("Introduzca el dia de la semana en char");
+dia = char.Parse(Console.ReadLine());
+
+
+```
+
+
 
 
