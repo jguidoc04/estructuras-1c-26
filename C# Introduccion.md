@@ -260,3 +260,16 @@ usuarios.Add(1, "Admin");
 - Excelente documentación
 - Compatible con videojuegos (Unity)
 
+## IMportar clases en C#
+
+
+```csharp
+using NameSpace.NombreClase;
+
+
+using Biblioteca.Utilidades;
+
+
+```
+
+
